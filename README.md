@@ -15,24 +15,12 @@ Este é um projeto de microsserviços com a tecnologia Spring Cloud. Foram desen
 - Banco de Dados Elasticsearch
 - Banco de Dados Redis
 
-**Como iniciar o projeto:**
 
-Para executar o projeto no terminal, digite o seguinte comando:
-
-```
-mvn spring-boot:run 
-```
-
-Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:
-
-```
-http://localhost:8080/product
-```
 
 São necessários os seguintes pré-requisitos para a execução do projeto desenvolvido durante a aula:
 
 - Java 11 ou versões superiores.
-- Gradle 7.0 ou versões superiores.
+- Gradle 6.0 ou versões superiores.
 - Intellj IDEA Community Edition ou sua IDE favorita.
 - Postman
 - Banco de Dados Elasticsearch
