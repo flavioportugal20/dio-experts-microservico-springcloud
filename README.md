@@ -17,7 +17,7 @@ Este é um projeto de microsserviços com a tecnologia Spring Cloud. Foram desen
 
 
 
-São necessários os seguintes pré-requisitos para a execução do projeto desenvolvido durante a aula:
+**São necessários os seguintes pré-requisitos para a execução do projeto desenvolvido durante a aula:**
 
 - Java 11 ou versões superiores.
 - Gradle 6.0 ou versões superiores.
